@@ -1,0 +1,20 @@
+/* Add application styles & imports to this file! */
+
+/* BackGround */
+
+body {
+  background-color: rgb(37, 36, 36);
+}
+
+/* Global */
+* {
+  font-family: Arial;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+a {
+  text-decoration: none;
+}
